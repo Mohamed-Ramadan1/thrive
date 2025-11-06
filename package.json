@@ -28,6 +28,7 @@
     "@nestjs/mongoose": "^11.0.3",
     "@nestjs/platform-express": "^11.1.8",
     "@nestjs/schedule": "^6.0.1",
+    "@nestjs/terminus": "^11.0.0",
     "@nestjs/throttler": "^6.4.0",
     "bcrypt": "^6.0.0",
     "bullmq": "^5.61.2",
